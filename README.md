@@ -1,0 +1,1 @@
+Scripts and contracts to use with Brownie to complete Ethernaut challenges, where applicable.
